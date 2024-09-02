@@ -1,0 +1,2 @@
+# Mathematical_modeling
+个人参加数学建模比赛的一些经历以及整理的一些文件
